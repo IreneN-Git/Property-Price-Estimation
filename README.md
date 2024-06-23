@@ -1,5 +1,5 @@
 # Property-Price-Estimation
-**Objective**: Develop predictive models to analyse and estimate property prices in 3 cities in Ireland Dublin, Cork and Limerick)
+**Objective**: Develop predictive models to analyse and estimate property prices in 3 cities in Ireland Dublin, Cork and Limerick
 **Approach**:
 - Implemented Random Forest, Multiple Linear Regression, and Generalized Additive Models (GAM) to predict property prices for the 3 locations.
 - Performed EDA and extensive feature engineering to enhance model performance.
